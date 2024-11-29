@@ -11,4 +11,5 @@ imc = peso / (estatura**2)
 print("Su IMC es:", imc)
 
 
-
+print("Hola,", nombre, apellido_materno, apellido_paterno + ".")
+print("Tu IMC es:", imc)
